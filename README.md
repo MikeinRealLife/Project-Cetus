@@ -1,4 +1,4 @@
-# New Document# Project-Cetus
+# Project-Cetus
 ### Instructions
 
 ##### run python rogue.py on a unix machine (curses doesn't exist for windows, unfortunately) 
